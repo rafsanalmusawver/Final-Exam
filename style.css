@@ -158,6 +158,7 @@ nav ul li a{
 	}
 
 .sideBtn p{
+	text-align:center;
 	font-size:12px;
 	font-weight: bolder;
 	text-transform: uppercase;
